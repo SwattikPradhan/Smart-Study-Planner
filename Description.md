@@ -52,6 +52,11 @@ The model is trained on a synthetic dataset (found in `model.py`) that maps thre
 * **Sleep Hours:** The amount of rest achieved the previous night.
 * **Break Time:** The duration of intervals taken to prevent burnout.
 
+![App Screenshot](smart%20study%20planner.png)
+![App Screenshot](smart%20study%20planner%202.png)
+![App Screenshot](model.png)
+![App Screenshot](app.png)
+
 ### 2. The Machine Learning Model
 We utilize **Linear Regression**, a fundamental predictive algorithm. It calculates the "line of best fit" through the data points to understand how each hour of sleep or study impacts the final score.
 
