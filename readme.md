@@ -24,7 +24,6 @@ A machine learning-powered web application that predicts a user's productivity s
 
 ## 📂 Project Structure
 
-```text
 smart-study-planner/
 ├── app.py              # Main Streamlit application script
 ├── model.py            # Script to train and export the ML model
